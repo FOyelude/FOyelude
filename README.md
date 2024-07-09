@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oyelude Favour
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Electrical and ELectronics Engineering
-- 💞️ I’m looking to collaborate on varipus Data analytics projects
+- 💞️ I’m looking to collaborate on various Data analytics projects
 - 📫 CONTACT: 09162502199 or favouroyelude@gmail.com
 - 
 
