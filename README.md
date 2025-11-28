@@ -1,11 +1,35 @@
-- 👋 Hi, I’m Oyelude Favour
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Electrical and ELectronics Engineering
-- 💞️ I’m looking to collaborate on various Data analytics projects
-- 📫 CONTACT: 09162502199 or favouroyelude@gmail.com
-- 
+<h1 align="center">Hi 👋, I am Oyelude favour</h1>
+<h3 align="center">Data Analyst | Electrical and Electronics Engineer</h3>
 
-<!---
-FOyelude/Favour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 About Me  
+🔹 First Class graduate of Electrical and Electronics Engineering  
+🔹 Attended Covenant University
+🔹 Passionate about providing solutions through insights from company data 
+🔹 Interested in Eccomerce, Engineering and Fintech data
+
+---
+
+## 🧰 Tech Stack
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge) • ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge) • SQL • Python  
+
+
+---
+
+## 📂 Featured Projects
+🔸 **Excel Business Tracker**  
+🔸 **Invoice → Sales Automation System**  
+🔸 **Solar Dynamic EV Charging (FYP)**  
+🔸 **Telegram Order Automation Bot**  
+🔸 **Capsule Jar Business Tools**
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FOyelude&theme=default)
+
+---
+
+## 🔗 Connect With Me
+LinkedIn • YouTube
