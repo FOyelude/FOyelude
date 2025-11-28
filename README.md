@@ -12,7 +12,7 @@
 ---
 
 ## 🧰 Tech Stack
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge) • ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge) • SQL • Python  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge) • ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge) • ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge) • ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 
 
 ---
