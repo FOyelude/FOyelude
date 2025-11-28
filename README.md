@@ -6,7 +6,7 @@
 ## 🚀 About Me  
 🔹 First Class graduate of Electrical and Electronics Engineering  
 🔹 Attended Covenant University
-🔹 Passionate about providing solutions through insights from company data 
+🔹 Passionate about providing solutions through insights from company data
 🔹 Interested in Eccomerce, Engineering and Fintech data
 
 ---
@@ -26,10 +26,5 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FOyelude&theme=default)
-
----
-
 ## 🔗 Connect With Me
-LinkedIn • YouTube
+[LinkedIn](https://www.linkedin.com/in/favour-oyelude-8558001a6) • 📞 +2349057165905 • 📧 favouroyelude@gmail.com
