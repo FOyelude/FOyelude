@@ -7,7 +7,7 @@
 🔹 First Class graduate of Electrical and Electronics Engineering  
 🔹 Attended Covenant University
 🔹 Passionate about providing solutions through insights from company data
-🔹 Interested in Eccomerce, Engineering and Fintech data
+🔹 Interested in E-comerce, Engineering and Fintech data
 
 ---
 
@@ -21,16 +21,16 @@
 **Data Analyst & Data-Entry Manager**  
 *January 2023 – August 2024*
 
-- Managed and analyzed data for a wide range of products, improving product performance insights.  
+- Managed and analysed data for a wide range of products, improving product performance insights.  
 - Tracked sales metrics, agent performance, and customer purchase trends.  
-- Identified top-performing product, built and optimized inventory management tools, reducing overstock and preventing shortages.  
+- Identified top-performing product, built and optimised inventory management tools, reducing overstock and preventing shortages.  
 - Streamlined order processing systems, significantly cutting down mixed-up or delayed orders.  
 - Collaborated with the sales team to improve strategy, contributing to a **40% increase in sales**.  
 - Developed Excel-based automation tools to speed up reporting and operations.
 ---
 
 ## 📂 Featured Projects
-🔸 **Excel Business Tracker**  
+🔸 **[A Decade of Power Grid Outages: Root Causes, Trends & Regional Impacts](https://github.com/FOyelude/Analysis-of-Power-Outage-over-the-Last-10-Years)**  
 
 ---
 
