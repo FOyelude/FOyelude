@@ -21,12 +21,14 @@ I am a First-class graduate in Electrical and Electronics Engineering at Covenan
 - I collected and managed the data for their wide range of gift items, including letters, diffusers, candles, flowers and so on, making sure there were no mixed-up orders.  
 - I tracked sales metrics, each agent's performance, and customer purchase trends with visualisations using Microsoft Excel.  
 - I identified and gave a report on the top-performing products and cities monthly using Power BI, thereby optimising how we directed meta ads, reducing overstock, and preventing shortages.  
-- Collaborated with the sales team to improve sales strategy, contributing to a **40% increase in sales**.  
----
+- I collaborated with the sales team to refine sales strategies by **bundling** products into premium and signature packages, contributing to **over 40% increase in sales**
 
+---
 ## 📂 Featured Projects
 🔸 [A Decade of Power Grid Outages in the **US**: Root Causes, Trends & Regional Impacts](https://github.com/FOyelude/Analysis-of-Power-Outage-over-the-Last-10-Years)
+
 🔸 [Comprehensive KPI report for **Massachusetts General Hospital**](https://github.com/FOyelude/Massachusetts-General-Hospital-KPI-Dashboard)
+
 🔸 [A/B Testing Analysis of Promotional Offers for **Maven Café**](https://github.com/FOyelude/MAVEN-CAFE-REWARDS-ANALYSIS/blob/main/README.md)
 
 ---
