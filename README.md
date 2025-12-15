@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me  
-I am a First-class graduate in Electrical and Electronics Engineering at Covenant University. I enjoy finding solutions to problems using data, particularly in the e-commerce, engineering, and fintech industries. I am super excited to contribute and keep learning, and I am open to opportunities including internships, volunteer work, and entry-level roles where I can make a real impact.
+I am a First-class graduate in Electrical and Electronics Engineering at Covenant University. I enjoy finding solutions to problems using data, particularly in the e-commerce, engineering, and fintech industries. I am super excited to contribute and keep learning, and I am open to opportunities, including internships, volunteer work, and entry-level roles, where I can make a real impact.
 
 ---
 
@@ -14,7 +14,7 @@ I am a First-class graduate in Electrical and Electronics Engineering at Covenan
 ---
 ## 🧰 Work Experience
 
-### **Enchant Gifts — E-commerce Company**
+### **[Enchant Gifts](https://www.enchantgifts.store/?srsltid=AfmBOoqPXprNk01UEc_c44gBzkIe8jjgdwp_lRgT0zs5xZSS8b_j5a2G) — E-commerce Company**
 **Data Analyst & Data-Entry Manager**  
 *January 2023 – August 2024*
 
