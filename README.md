@@ -25,7 +25,7 @@ I am a First-class graduate in Electrical and Electronics Engineering at Covenan
 
 ---
 ## 📂 Featured Projects
-🔸 [A Decade of Power Grid Outages in the **US**: Root Causes, Trends & Regional Impacts](https://github.com/FOyelude/Analysis-of-Power-Outage-over-the-Last-10-Years)
+🔸 [A Decade of Power Grid Outages in the **US**: Root Causes, Trends & Regional Impacts](https://github.com/FOyelude/Analysis-of-Power-Outage-over-the-Last-10-Years/blob/main/README.md)
 
 🔸 [Comprehensive KPI report for **Massachusetts General Hospital**](https://github.com/FOyelude/Massachusetts-General-Hospital-KPI-Dashboard)
 
