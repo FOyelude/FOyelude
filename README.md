@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me  
-I am a First-class graduate in Electrical and Electronics Engineering at Covenant University. I enjoy finding solutions to problems using data, particularly in the e-commerce, engineering, and fintech industries. I am super excited to contribute and keep learning, and I am open to opportunities, including internships, volunteer work, and entry-level roles, where I can make a real impact.
+I am a First-class graduate in Electrical and Electronics Engineering at Covenant University. I enjoy finding solutions to problems using data, particularly in the e-commerce, engineering, and fintech industries. I am super excited to contribute and keep learning, and I am open to opportunities, including internships, volunteer work, and entry-level roles, where I can make a meaningful impact.
 
 ---
 
@@ -39,6 +39,9 @@ I am a First-class graduate in Electrical and Electronics Engineering at Covenan
 *September 2020 – October 2025*
 
 ---
+### 📄 MY CV/RESUME
+[Click to download my CV](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FFOyelude%2FMy-CV%2Frefs%2Fheads%2Fmain%2FOYELUDE_FAVOUR_CV_Data_Analyst.docx&wdOrigin=BROWSELINK)
 
+---
 ## 🔗 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/favour-oyelude-8558001a6) • 📞 +2349057165905 • 📧 favouroyelude@gmail.com
