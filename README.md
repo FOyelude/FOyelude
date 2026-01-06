@@ -4,12 +4,19 @@
 ---
 
 ## 🚀 About Me  
-I am a First-class graduate in Electrical and Electronics Engineering at Covenant University. I enjoy finding solutions to problems using data, particularly in the e-commerce, engineering, and fintech industries. I am super excited to contribute and keep learning, and I am open to opportunities, including internships, volunteer work, and entry-level roles, where I can make a meaningful impact.
+I am a first-class graduate in Electrical and Electronics Engineering from Covenant University with a strong passion for solving real-world problems using data.
+
+I have hands-on experience analysing data to drive insights, improve decision-making, improve efficiency, and optimise processes, particularly within e-commerce, engineering, and fintech-related contexts. My approach combines analytical thinking, technical skills, and a strong understanding of how data supports business and operational outcomes.
+
+I am continuously learning and building projects across Excel, SQL, Power BI, and Python, with a growing interest in end-to-end data workflows, automation, and analytics-driven solutions.
+
+I am open to entry-level or full-time roles, internships, and volunteer opportunities where I can apply my skills, learn from experienced teams, and create a tangible impact.
 
 ---
 
 ## ⚙ Tech Stack
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)  ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)  ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)  ![Azure](img.shields.io)
+
 
 ---
 ## 🧰 Work Experience
