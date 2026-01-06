@@ -15,7 +15,8 @@ I am open to entry-level or full-time roles, internships, and volunteer opportun
 ---
 
 ## ⚙ Tech Stack
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)  ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)  ![Azure](img.shields.io)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)  ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge) ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
 
 
 ---
